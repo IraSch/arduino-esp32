@@ -42,6 +42,11 @@ Before reporting an issue, make sure you've searched for similar one that was al
 
 Finally, if you're sure no one else had the issue, follow the [ISSUE_TEMPLATE](docs/ISSUE_TEMPLATE.md) while reporting any issue.
 
+You must check out [JLCPCB](https://jlcpcb.com/m) for ordering PCBs online for cheap!
+
+You get 10 good quality PCBs manufactured and shipped to your doorstep for 2$ and some shipping. You will also get a discount on shipping on your first order. To design your own PCB head over to [easyEDA](https://easyeda.com/), once that is done upload your Gerber files onto [JLCPCB](https://jlcpcb.com/m) to get them manufactured with good quality and quick turnaround time.
+
+![alt text](https://github.com/akarsh98/DFRobot-LoRa-Firebeetle-Code/blob/master/SCREENSHOTS/JLCFULL.jpg?raw=true)
 
 ## ESP32Dev Board PINMAP
 
