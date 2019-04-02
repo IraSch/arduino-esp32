@@ -42,6 +42,12 @@ Before reporting an issue, make sure you've searched for similar one that was al
 
 Finally, if you're sure no one else had the issue, follow the [ISSUE_TEMPLATE](docs/ISSUE_TEMPLATE.md) while reporting any issue.
 
+You must check out [LCSC](https://lcsc.com/) for ordering good quality components for good prices.
+
+There is no minimum quantity order that you need to purchase for getting it shipped. [LCSC](https://lcsc.com/) is the leading chinese electronics parts supplier. You can find all the conponents for your project from smd parts to through hole parts and even development boards, sensors etc and that too for very good pricing. You will also get a discount on your first order.
+
+![alt text](https://github.com/akarsh98/ESP8266-Ra-02-arduino-code/blob/master/SCREENSHOTS/lcsc.JPG?raw=true)
+
 You must check out [JLCPCB](https://jlcpcb.com/m) for ordering PCBs online for cheap!
 
 You get 10 good quality PCBs manufactured and shipped to your doorstep for 2$ and some shipping. You will also get a discount on shipping on your first order. To design your own PCB head over to [easyEDA](https://easyeda.com/), once that is done upload your Gerber files onto [JLCPCB](https://jlcpcb.com/m) to get them manufactured with good quality and quick turnaround time.
