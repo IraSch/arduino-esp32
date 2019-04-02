@@ -42,6 +42,8 @@ Before reporting an issue, make sure you've searched for similar one that was al
 
 Finally, if you're sure no one else had the issue, follow the [ISSUE_TEMPLATE](docs/ISSUE_TEMPLATE.md) while reporting any issue.
 
+#### ORDER THE PARTS FOR YOUR PROJECT
+
 You must check out [LCSC](https://lcsc.com/) for ordering good quality components for good prices.
 
 There is no minimum quantity order that you need to purchase for getting it shipped. [LCSC](https://lcsc.com/) is the leading chinese electronics parts supplier. You can find all the conponents for your project from smd parts to through hole parts and even development boards, sensors etc and that too for very good pricing. You will also get a discount on your first order.
